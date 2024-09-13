@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👩‍💻 Acerca de mi:
-🚀 Linux Sysadmin por más de 15 años, actualmente aprendiendo tecnologías DevOps y Backend  como AWS, Ansible, Python, FastAPI, y Docker entre otras.
+🚀 Linux Sysadmin por más de 18 años, actualmente aprendiendo tecnologías para DevOps y Backend como AWS, Ansible, Python, FastAPI y Docker entre otras.
 
-⚡ También soy modelador Blender 3D y realizo un poco de edición de imagenes y video, principalmente con software libre.
+⚡ También soy modelador Blender 3D y realizo un poco de edición de imágenes y video principalmente con software libre.
 
 
 ## 🌐 Redes sociales:
